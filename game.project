@@ -1,0 +1,13 @@
+[bootstrap]
+main_collection = /main/main.collectionc
+
+[script]
+shared_state = 1
+
+[project]
+title = My Project
+
+[display]
+width = 1920
+height = 1080
+
